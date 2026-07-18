@@ -1,0 +1,140 @@
+{
+  "draft": true,
+  "settings": {
+    "headline": "Practical auto care in Sterling Heights",
+    "subheadline": "Car Doc provides maintenance, diagnostics, and repair services for cars and trucks.",
+    "serviceIntro": "Review the services available at Car Doc, then contact the shop to discuss your vehicle and the work it may need.",
+    "aboutTitle": "Maintenance and repair for everyday driving",
+    "aboutBody": "Car Doc is an auto repair and preventive maintenance shop in Sterling Heights. The shop handles routine service, vehicle diagnostics, and repairs involving major mechanical and electrical systems.",
+    "contactIntro": "Call Car Doc, send a contact request, or request an appointment to discuss your vehicle. The shop is located at 42464 Mound Road in Sterling Heights, Michigan.",
+    "hoursText": "Monday-Friday: 9:00 AM-6:00 PM\nSaturday: 9:00 AM-3:00 PM\nSunday: Closed",
+    "reviewUrl": null
+  },
+  "pages": [
+    {
+      "slug": "coupons",
+      "eyebrow": "Offers",
+      "title": "Ask about current offers",
+      "description": "Contact Car Doc to ask whether any current service offers are available.",
+      "body": "Published offers will appear here after their details and terms have been confirmed. Until then, call the shop before scheduling if you would like to ask about current offers.",
+      "active": true
+    },
+    {
+      "slug": "reviews",
+      "eyebrow": "Customer Feedback",
+      "title": "Connect with Car Doc",
+      "description": "Contact or visit the shop to learn more about its approach to vehicle maintenance and repair.",
+      "body": "Approved customer feedback can be added here after its source and permission for reuse have been confirmed. To speak directly with the shop, call Car Doc or visit the Sterling Heights location during posted hours.",
+      "active": true
+    },
+    {
+      "slug": "about",
+      "eyebrow": "About Car Doc",
+      "title": "Auto care in Sterling Heights",
+      "description": "Car Doc provides preventive maintenance, diagnostics, and repair services for cars and trucks.",
+      "body": "The shop's services cover routine maintenance as well as brake, climate-control, electrical, steering, suspension, transmission, engine, and undercar systems. Contact Car Doc to discuss a specific vehicle concern or maintenance need.",
+      "active": true
+    },
+    {
+      "slug": "photos",
+      "eyebrow": "Photos",
+      "title": "A future look around the shop",
+      "description": "Approved Car Doc photos will be added here when they are available for publication.",
+      "body": "This gallery is being prepared. Images will appear after the shop confirms that they accurately represent Car Doc and are authorized for use.",
+      "active": true
+    },
+    {
+      "slug": "contact",
+      "eyebrow": "Contact",
+      "title": "Talk with Car Doc about your vehicle",
+      "description": "Call the shop, send a contact request, or request an appointment.",
+      "body": "Car Doc is located at 42464 Mound Road, Sterling Heights, MI 48314. Call 586-843-3347 or submit a request with your contact information and vehicle concern. Posted hours are Monday through Friday from 9:00 AM to 6:00 PM, Saturday from 9:00 AM to 3:00 PM, and Sunday closed.",
+      "active": true
+    }
+  ],
+  "services": [
+    {
+      "slug": "brakes",
+      "name": "Brake Service",
+      "summary": "Diagnosis and repair for brake-system concerns.",
+      "detail": "Car Doc offers brake diagnosis and repair, ABS diagnosis, brake fluid flushes, and brake hose service. Contact the shop to describe changes in braking performance or warning lights.",
+      "active": true,
+      "sortOrder": 10
+    },
+    {
+      "slug": "oil-change",
+      "name": "Oil, Lube, and Filter Service",
+      "summary": "Routine oil, lubrication, and filter maintenance.",
+      "detail": "Oil, lube, and filter changes are available as part of Car Doc's preventive maintenance services. The shop can also discuss related fluid and filter needs for your vehicle.",
+      "active": true,
+      "sortOrder": 20
+    },
+    {
+      "slug": "diagnostics",
+      "name": "Vehicle Diagnostics",
+      "summary": "Diagnostic checks for warning lights and electronic-system concerns.",
+      "detail": "Car Doc reads check-engine-light codes, investigates the cause of vehicle alerts, and diagnoses electronic-system problems before discussing repair needs.",
+      "active": true,
+      "sortOrder": 30
+    },
+    {
+      "slug": "ac-heating-cooling",
+      "name": "A/C, Heating, and Cooling",
+      "summary": "Inspection and service for cabin climate and engine cooling systems.",
+      "detail": "Services include checks of A/C performance, controls, blower operation, belts, coolant, hoses, radiator components, thermostat operation, system pressure, and possible leaks or damage.",
+      "active": true,
+      "sortOrder": 40
+    },
+    {
+      "slug": "steering-suspension",
+      "name": "Steering and Suspension",
+      "summary": "Service for steering and suspension systems.",
+      "detail": "Car Doc lists steering and suspension among its primary repair categories. Contact the shop to discuss handling, ride, noise, or steering concerns and arrange an evaluation.",
+      "active": true,
+      "sortOrder": 50
+    },
+    {
+      "slug": "battery-electrical",
+      "name": "Battery and Electrical Service",
+      "summary": "Testing and repair for starting, charging, battery, and electrical concerns.",
+      "detail": "Car Doc offers battery testing, charging, replacement, and recycling, along with alternator and starter service and diagnosis of other vehicle electrical problems.",
+      "active": true,
+      "sortOrder": 60
+    },
+    {
+      "slug": "scheduled-maintenance",
+      "name": "Scheduled Maintenance",
+      "summary": "Mileage-based and factory-scheduled preventive maintenance.",
+      "detail": "Car Doc offers 30/60/90K and factory-scheduled maintenance. Available work includes fluid and filter service, inspections, tire rotation and balance, pressure adjustment, and replacement of maintenance items such as belts, hoses, bulbs, and wiper blades.",
+      "active": true,
+      "sortOrder": 70
+    },
+    {
+      "slug": "transmission-clutch",
+      "name": "Transmission and Clutch Service",
+      "summary": "Service for automatic transmissions, manual transmissions, and clutches.",
+      "detail": "Car Doc provides transmission and clutch work for vehicles with automatic or manual drivetrains. Contact the shop about shifting, engagement, or other drivetrain concerns.",
+      "active": true,
+      "sortOrder": 80
+    },
+    {
+      "slug": "engine-repair",
+      "name": "Engine Repair",
+      "summary": "Engine repair work ranging from diagnosis to major internal service.",
+      "detail": "Car Doc offers engine repair, overhaul, and replacement work, including service involving cylinder blocks and cylinder heads. An evaluation is needed to identify the appropriate scope of work.",
+      "active": true,
+      "sortOrder": 90
+    },
+    {
+      "slug": "undercar-service",
+      "name": "Undercar Service",
+      "summary": "Inspection and service for components beneath the vehicle.",
+      "detail": "Car Doc offers undercarriage inspection and related repair work. This category includes attention to components and systems located beneath the car or truck.",
+      "active": true,
+      "sortOrder": 100
+    }
+  ],
+  "coupons": [],
+  "testimonials": [],
+  "gallery": []
+}
