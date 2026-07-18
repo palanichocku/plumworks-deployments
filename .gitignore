@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+*.log
+
+# Do not commit database dumps or private operational backups here
+backups/
+*.dump
+*.sql
+*.tar
+*.zip
+
+# Optional local-only scratch files
+scratch/
