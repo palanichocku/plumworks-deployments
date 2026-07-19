@@ -18,7 +18,7 @@ Generated from a read-only audit on 2026-07-19. This recovery package is dry-run
 
 ## Review requirements
 
-Every alias and customer-creation entry has `reviewStatus: "pending"` and requires explicit human approval before any future write operation. The manifest is a crosswalk and evidence record only.
+All six alias entries and all twelve customer-creation entries have `reviewStatus: "approved"`, approving the 65 recoverable orders for a separately authorized future write operation. The manifest remains a crosswalk and evidence record; this approval does not itself execute recovery.
 
 The six aliases must never replace an operational customer's current `legacy_custno`. They are alternate legacy identifiers scoped to the listed repair orders.
 

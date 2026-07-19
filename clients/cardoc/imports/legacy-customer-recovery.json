@@ -13,7 +13,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["10114", "10116"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87604090; do not overwrite it with 87603233."
     },
     {
@@ -25,7 +25,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["10209", "10251"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87603756; do not overwrite it with 87603391."
     },
     {
@@ -37,7 +37,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["10297"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87603972; do not overwrite it with 87603366."
     },
     {
@@ -49,7 +49,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["10540"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87604068; do not overwrite it with 87603979."
     },
     {
@@ -61,7 +61,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["10810"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87604301; do not overwrite it with 87604299."
     },
     {
@@ -73,7 +73,7 @@
       "matchingMethod": "exact-normalized-name-address",
       "confidence": "deterministic",
       "applicableLegacyOrderNumbers": ["13770", "13872"],
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Import-time alias only. Preserve the operational customer's current legacy ID 87606497; do not overwrite it with 87606349."
     }
   ],
@@ -91,7 +91,7 @@
       "applicableLegacyOrderNumbers": ["10132"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87603264"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone and city are truncated in the legacy source. State is absent; no missing characters were inferred."
     },
     {
@@ -107,7 +107,7 @@
       "applicableLegacyOrderNumbers": ["10270", "10272", "10323", "10356", "10671", "10848", "10883", "11128", "11300", "11510", "11806", "11888", "11948", "12042", "12199", "12327", "12960"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87603558"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone and city are truncated in the legacy source. State is absent. Some labor-only rows contain customer 0, while AR and the remaining source rows consistently identify 87603558."
     },
     {
@@ -123,7 +123,7 @@
       "applicableLegacyOrderNumbers": ["10412", "10565", "10660", "10661"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87603794"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone is truncated in the legacy source. State is absent. THOMAS is a common name, so the legacy ID, address, and vehicle ownership should be reviewed together."
     },
     {
@@ -139,7 +139,7 @@
       "applicableLegacyOrderNumbers": ["10443", "10510"],
       "sourceEvidence": {"tables": ["AR.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87603051"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Alternate phone and city are truncated; state is absent. RO 10510 has a blank AR name, while RO 10443 supplies KUNDAL."
     },
     {
@@ -155,7 +155,7 @@
       "applicableLegacyOrderNumbers": ["10625"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87604081"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone is truncated and state is absent. PATEL is a common name, so the legacy ID, exact address, and vehicle evidence require human review."
     },
     {
@@ -171,7 +171,7 @@
       "applicableLegacyOrderNumbers": ["10912"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87604418"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone is truncated and state is absent; values are preserved exactly as staged."
     },
     {
@@ -187,7 +187,7 @@
       "applicableLegacyOrderNumbers": ["11064"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87604561"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Source provides only legacy ID, display name, and unambiguous vehicle ownership; phone and postal address fields are blank."
     },
     {
@@ -203,7 +203,7 @@
       "applicableLegacyOrderNumbers": ["11258"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87604726", "sourceAddressLine2": "THATCHER DR"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone is truncated and state is absent. The source stores 24620 in ADDRESS and THATCHER DR in ADDRESS2; address parts were not combined or invented."
     },
     {
@@ -219,7 +219,7 @@
       "applicableLegacyOrderNumbers": ["13271", "14328", "14868", "14919", "14996", "15003", "15164", "15405", "15473"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87606096", "alternateSourceNames": ["MOUND TECH COMMONS"]},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone is truncated and address fields are blank. Later AR rows use MOUND TECH COMMONS for the same legacy ID; preserve that variation as source evidence rather than creating another customer."
     },
     {
@@ -235,7 +235,7 @@
       "applicableLegacyOrderNumbers": ["14884", "15037", "15042", "15142", "15828", "15858", "16175"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87607039"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "Phone and city are truncated and state is absent. RO 16175 has a blank AR name; the other orders consistently supply SM SHELBY MECHANICAL."
     },
     {
@@ -251,7 +251,7 @@
       "applicableLegacyOrderNumbers": ["14295", "14505", "14661", "15454", "15755", "15984", "16530", "17177", "18125", "20175", "20235"],
       "sourceEvidence": {"tables": ["Cust.DBF", "AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87606676", "rawCustomerName": null, "repeatedArName": "GERARDI K"},
       "classification": "normal-historical",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "The current raw Cust.DBF row has a blank CUSTOMER field and was skipped by the customer transformer. GERARDI K is supplied repeatedly by AR. Human approval must confirm using the AR name."
     },
     {
@@ -267,7 +267,7 @@
       "applicableLegacyOrderNumbers": ["12222"],
       "sourceEvidence": {"tables": ["AR.DBF", "FINAL.DBF", "laborfinal.DBF", "vehicles.DBF"], "customerIdsAgree": true, "vehicleOwnerCustomerId": "87605435", "sourceDisplayName": null},
       "classification": "historical-unknown",
-      "reviewStatus": "pending",
+      "reviewStatus": "approved",
       "notes": "The source name and contact fields are blank. The synthetic display name is explicitly non-identifying and exists only to support a clearly labeled historical/unknown operational record."
     }
   ],
