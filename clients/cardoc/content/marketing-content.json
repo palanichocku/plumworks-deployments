@@ -1,12 +1,12 @@
 {
   "draft": true,
   "settings": {
-    "headline": "Practical auto care in Sterling Heights",
-    "subheadline": "Car Doc provides maintenance, diagnostics, and repair services for cars and trucks.",
-    "serviceIntro": "Review the services available at Car Doc, then contact the shop to discuss your vehicle and the work it may need.",
-    "aboutTitle": "Maintenance and repair for everyday driving",
-    "aboutBody": "Car Doc is an auto repair and preventive maintenance shop in Sterling Heights. The shop handles routine service, vehicle diagnostics, and repairs involving major mechanical and electrical systems.",
-    "contactIntro": "Call Car Doc, send a contact request, or request an appointment to discuss your vehicle. The shop is located at 42464 Mound Road in Sterling Heights, Michigan.",
+    "headline": "Clear answers for the road ahead",
+    "subheadline": "Car Doc is an automotive maintenance, diagnostic, and repair shop in Sterling Heights. Call or send a service request to describe what your vehicle is doing and discuss the next step.",
+    "serviceIntro": "You do not need to know which repair your vehicle needs before contacting the shop. Describe the warning light, sound, driving change, or maintenance need, and Car Doc can help determine the next step.",
+    "aboutTitle": "Practical recommendations, explained clearly",
+    "aboutBody": "Car Doc helps Sterling Heights drivers address maintenance needs and vehicle concerns. The goal is a straightforward conversation: explain what you have noticed, review the shop's findings and recommendation, and approve the work before it proceeds.",
+    "contactIntro": "Call for the quickest conversation, especially for urgent or same-day needs. Online submissions are service requests, not automatically confirmed appointments; the shop will follow up to discuss availability and timing.",
     "hoursText": "Monday-Friday: 9:00 AM-6:00 PM\nSaturday: 9:00 AM-3:00 PM\nSunday: Closed",
     "reviewUrl": null
   },
@@ -14,122 +14,122 @@
     {
       "slug": "coupons",
       "eyebrow": "Offers",
-      "title": "Ask about current offers",
-      "description": "Contact Car Doc to ask whether any current service offers are available.",
-      "body": "Published offers will appear here after their details and terms have been confirmed. Until then, call the shop before scheduling if you would like to ask about current offers.",
+      "title": "Current service offers",
+      "description": "There are no approved promotions published at this time.",
+      "body": "Call the shop if you would like to ask whether an offer applies to your service request. Offer details will be posted only after their terms are confirmed.",
       "active": true
     },
     {
       "slug": "reviews",
       "eyebrow": "Customer Feedback",
-      "title": "Connect with Car Doc",
-      "description": "Contact or visit the shop to learn more about its approach to vehicle maintenance and repair.",
-      "body": "Approved customer feedback can be added here after its source and permission for reuse have been confirmed. To speak directly with the shop, call Car Doc or visit the Sterling Heights location during posted hours.",
+      "title": "Customer reviews",
+      "description": "No verified customer reviews are published on this site yet.",
+      "body": "Reviews will appear here only after their source, attribution, and permission for reuse have been confirmed. Call the shop if you would like to discuss a vehicle concern directly.",
       "active": true
     },
     {
       "slug": "about",
       "eyebrow": "About Car Doc",
-      "title": "Auto care in Sterling Heights",
-      "description": "Car Doc provides preventive maintenance, diagnostics, and repair services for cars and trucks.",
-      "body": "The shop's services cover routine maintenance as well as brake, climate-control, electrical, steering, suspension, transmission, engine, and undercar systems. Contact Car Doc to discuss a specific vehicle concern or maintenance need.",
+      "title": "Straightforward help with vehicle concerns",
+      "description": "Car Doc provides automotive maintenance, diagnostics, and repair in Sterling Heights.",
+      "body": "Start by explaining the maintenance need, warning light, sound, or change you have noticed. The shop can evaluate the concern, explain the recommendation in understandable terms, and let you review the work before it proceeds.",
       "active": true
     },
     {
       "slug": "photos",
       "eyebrow": "Photos",
-      "title": "A future look around the shop",
-      "description": "Approved Car Doc photos will be added here when they are available for publication.",
-      "body": "This gallery is being prepared. Images will appear after the shop confirms that they accurately represent Car Doc and are authorized for use.",
+      "title": "Shop photos",
+      "description": "No approved shop photographs are published yet.",
+      "body": "Current photos will be added after the owner confirms that they accurately represent the shop and are approved for website use.",
       "active": true
     },
     {
       "slug": "contact",
       "eyebrow": "Contact",
-      "title": "Talk with Car Doc about your vehicle",
-      "description": "Call the shop, send a contact request, or request an appointment.",
-      "body": "Car Doc is located at 42464 Mound Road, Sterling Heights, MI 48314. Call 586-843-3347 or submit a request with your contact information and vehicle concern. Posted hours are Monday through Friday from 9:00 AM to 6:00 PM, Saturday from 9:00 AM to 3:00 PM, and Sunday closed.",
+      "title": "Tell us what is happening with your vehicle",
+      "description": "Call for urgent or same-day needs, or send a service request for the shop to review.",
+      "body": "Car Doc is located at 42464 Mound Road, Sterling Heights, MI 48314. Call 586-843-3347 for the quickest response, or submit your contact information and vehicle concern online. An online submission is a request, not a confirmed appointment; the shop will follow up about availability and timing. Posted hours are Monday through Friday from 9:00 AM to 6:00 PM, Saturday from 9:00 AM to 3:00 PM, and Sunday closed.",
       "active": true
     }
   ],
   "services": [
     {
-      "slug": "brakes",
-      "name": "Brake Service",
-      "summary": "Diagnosis and repair for brake-system concerns.",
-      "detail": "Car Doc offers brake diagnosis and repair, ABS diagnosis, brake fluid flushes, and brake hose service. Contact the shop to describe changes in braking performance or warning lights.",
+      "slug": "diagnostics",
+      "name": "Warning Light and Vehicle Diagnostics",
+      "summary": "Evaluation for warning lights, unusual behavior, and hard-to-identify vehicle concerns.",
+      "detail": "A warning light, starting problem, unusual sound, or change in performance can have more than one cause. Describe what you have noticed so the shop can evaluate the concern and explain what it finds before recommending work.",
       "active": true,
       "sortOrder": 10
     },
     {
       "slug": "oil-change",
-      "name": "Oil, Lube, and Filter Service",
-      "summary": "Routine oil, lubrication, and filter maintenance.",
-      "detail": "Oil, lube, and filter changes are available as part of Car Doc's preventive maintenance services. The shop can also discuss related fluid and filter needs for your vehicle.",
+      "name": "Oil and Filter Service",
+      "summary": "Routine oil and filter maintenance based on your vehicle's needs.",
+      "detail": "Contact the shop when an oil-change reminder appears, the service interval is approaching, or you are unsure when the oil was last changed. The shop can review the vehicle's maintenance needs with you.",
       "active": true,
       "sortOrder": 20
     },
     {
-      "slug": "diagnostics",
-      "name": "Vehicle Diagnostics",
-      "summary": "Diagnostic checks for warning lights and electronic-system concerns.",
-      "detail": "Car Doc reads check-engine-light codes, investigates the cause of vehicle alerts, and diagnoses electronic-system problems before discussing repair needs.",
+      "slug": "brakes",
+      "name": "Brake Inspection and Service",
+      "summary": "Evaluation of brake noises, warning lights, pedal changes, or reduced braking confidence.",
+      "detail": "Contact the shop if the brakes squeal or grind, the pedal feels different, a brake warning light appears, or the vehicle behaves differently while stopping. An inspection is needed before the shop can recommend the appropriate service.",
       "active": true,
       "sortOrder": 30
     },
     {
-      "slug": "ac-heating-cooling",
-      "name": "A/C, Heating, and Cooling",
-      "summary": "Inspection and service for cabin climate and engine cooling systems.",
-      "detail": "Services include checks of A/C performance, controls, blower operation, belts, coolant, hoses, radiator components, thermostat operation, system pressure, and possible leaks or damage.",
+      "slug": "scheduled-maintenance",
+      "name": "Scheduled Maintenance",
+      "summary": "Maintenance planning for service reminders and mileage-based intervals.",
+      "detail": "If a maintenance reminder is on, a mileage interval is approaching, or the vehicle's service history is unclear, contact the shop. Car Doc can review the known maintenance needs and discuss what should be addressed now or planned for later.",
       "active": true,
       "sortOrder": 40
     },
     {
-      "slug": "steering-suspension",
-      "name": "Steering and Suspension",
-      "summary": "Service for steering and suspension systems.",
-      "detail": "Car Doc lists steering and suspension among its primary repair categories. Contact the shop to discuss handling, ride, noise, or steering concerns and arrange an evaluation.",
+      "slug": "ac-heating-cooling",
+      "name": "A/C, Heating, and Cooling",
+      "summary": "Evaluation of weak airflow, temperature problems, overheating, or coolant concerns.",
+      "detail": "Contact the shop if the cabin is not heating or cooling properly, airflow has changed, the temperature gauge is unusual, or you notice signs of a coolant leak. The system should be evaluated before a repair is recommended.",
       "active": true,
       "sortOrder": 50
     },
     {
       "slug": "battery-electrical",
-      "name": "Battery and Electrical Service",
-      "summary": "Testing and repair for starting, charging, battery, and electrical concerns.",
-      "detail": "Car Doc offers battery testing, charging, replacement, and recycling, along with alternator and starter service and diagnosis of other vehicle electrical problems.",
+      "name": "Battery, Starting, and Electrical",
+      "summary": "Testing for slow starts, no-start conditions, charging warnings, and electrical problems.",
+      "detail": "Slow cranking, intermittent starting, dim lights, or a battery or charging warning can point to several possible causes. The shop can test the related systems and explain the results before recommending parts or repairs.",
       "active": true,
       "sortOrder": 60
     },
     {
-      "slug": "scheduled-maintenance",
-      "name": "Scheduled Maintenance",
-      "summary": "Mileage-based and factory-scheduled preventive maintenance.",
-      "detail": "Car Doc offers 30/60/90K and factory-scheduled maintenance. Available work includes fluid and filter service, inspections, tire rotation and balance, pressure adjustment, and replacement of maintenance items such as belts, hoses, bulbs, and wiper blades.",
+      "slug": "steering-suspension",
+      "name": "Steering and Suspension",
+      "summary": "Evaluation of handling changes, uneven ride, looseness, or suspension noise.",
+      "detail": "Contact the shop if the vehicle pulls, feels loose, rides differently, or makes noise over bumps or while turning. An inspection can help identify the source and the work, if any, that should be considered.",
       "active": true,
       "sortOrder": 70
     },
     {
       "slug": "transmission-clutch",
-      "name": "Transmission and Clutch Service",
-      "summary": "Service for automatic transmissions, manual transmissions, and clutches.",
-      "detail": "Car Doc provides transmission and clutch work for vehicles with automatic or manual drivetrains. Contact the shop about shifting, engagement, or other drivetrain concerns.",
+      "name": "Transmission and Clutch Concerns",
+      "summary": "Evaluation of shifting, engagement, slipping, or drivetrain concerns.",
+      "detail": "Describe delayed engagement, difficult shifting, slipping, vibration, or other changes you notice while driving. The shop will need to evaluate the vehicle before confirming the cause or scope of repair.",
       "active": true,
       "sortOrder": 80
     },
     {
       "slug": "engine-repair",
-      "name": "Engine Repair",
-      "summary": "Engine repair work ranging from diagnosis to major internal service.",
-      "detail": "Car Doc offers engine repair, overhaul, and replacement work, including service involving cylinder blocks and cylinder heads. An evaluation is needed to identify the appropriate scope of work.",
+      "name": "Engine Concerns and Repair",
+      "summary": "Evaluation of engine noise, performance changes, leaks, smoke, or running problems.",
+      "detail": "Engine symptoms can have many causes. Share when the problem occurs and what you have noticed; the shop can inspect the vehicle and discuss the findings before determining whether repair work is appropriate.",
       "active": true,
       "sortOrder": 90
     },
     {
       "slug": "undercar-service",
-      "name": "Undercar Service",
-      "summary": "Inspection and service for components beneath the vehicle.",
-      "detail": "Car Doc offers undercarriage inspection and related repair work. This category includes attention to components and systems located beneath the car or truck.",
+      "name": "Undercar Inspection and Service",
+      "summary": "Evaluation of noises, leaks, vibration, or visible concerns beneath the vehicle.",
+      "detail": "Contact the shop if you notice a leak, rattle, vibration, impact damage, or another concern underneath the vehicle. An inspection is needed to identify the affected component and whether service is required.",
       "active": true,
       "sortOrder": 100
     }
