@@ -1,0 +1,44 @@
+{
+  "rubricVersion": "cardoc-website-benchmark-v1",
+  "displayNames": { "new": "PlumWorks-powered Car Doc", "old": "Existing vendor Car Doc" },
+  "origins": { "new": "https://cardoc-rho.vercel.app", "old": "https://www.subbuscardoc.com" },
+  "crawl": { "cap": 75, "delayMs": 250 },
+  "pageSpeed": { "runs": 3, "pages": ["home", "brakes", "diagnostics", "about", "contact"] },
+  "pages": {
+    "home": { "new": "/", "old": "/" },
+    "about": { "new": "/about", "old": "/Sterling-Heights-auto-repairs.html" },
+    "contact": { "new": "/contact", "old": "/Sterling-Heights-auto-repair-shop-location.html" },
+    "brakes": { "new": "/services/brakes", "old": "/Sterling-Heights-auto-brakes.html", "service": true },
+    "diagnostics": { "new": "/services/diagnostics", "old": "/Sterling-Heights-auto-electronics.html", "service": true },
+    "maintenance": { "new": "/services/scheduled-maintenance", "old": "/Sterling-Heights-auto-maintenance.html", "service": true },
+    "ac": { "new": "/services/ac-heating-cooling", "old": "/Sterling-Heights-auto-ac-repair.html", "service": true }
+  },
+  "identity": {
+    "brandName": "Car Doc",
+    "legalName": "CAR DOC LLC",
+    "owner": "Subbu Veerappan",
+    "ownerRole": "Owner and ASE Master Technician",
+    "streetAddress": "42464 Mound Road",
+    "locality": "Sterling Heights",
+    "region": "MI",
+    "postalCode": "48314",
+    "phone": "586-843-3347",
+    "history": "since 2009"
+  },
+  "sourceEvidence": {
+    "new": {
+      "measurementAttribution": "verified",
+      "capabilities": ["lead creation", "click-to-call tracking", "UTM attribution", "gclid/fbclid/msclkid", "referrer", "landing/submission paths", "first-touch attribution"]
+    },
+    "old": { "measurementAttribution": "not_verifiable", "capabilities": [] }
+  },
+  "weights": {
+    "conversionUsability": 25,
+    "localSeoReadiness": 20,
+    "technicalSeo": 15,
+    "performance": 15,
+    "contentTrust": 10,
+    "accessibilityMobile": 10,
+    "measurementAttribution": 5
+  }
+}
