@@ -7,7 +7,14 @@
     "role": "Owner and ASE Master Technician",
     "biography": "Subbu Veerappan is the owner of Car Doc, serving drivers in Sterling Heights and nearby communities. Car Doc has provided automotive maintenance and repair services in the area since 2009.\n\nSubbu believes customers should receive clear explanations and practical recommendations before repair work begins. Whether the vehicle needs routine maintenance, diagnostics, or a more involved repair, his focus is on helping customers understand their options and keeping their vehicles safe and reliable.",
     "imageUrl": "/client-assets/cardoc/subbu-veerappan-owner.jpg",
-    "imageAlt": "Subbu Veerappan, owner of Car Doc"
+    "imageAlt": "Subbu Veerappan, owner of Car Doc",
+    "homepageSummary": "Subbu leads Car Doc with a practical approach: understand the concern, evaluate the vehicle, explain the findings, and let the customer review the recommendation before work proceeds.",
+    "historyLabel": "Serving the Sterling Heights area since 2009",
+    "principles": [
+      "Listen to the customer's concern before evaluating the vehicle.",
+      "Explain findings and practical recommendations in understandable terms.",
+      "Discuss the options and receive approval before repair work proceeds."
+    ]
   },
   "settings": {
     "headline": "Clear answers for the road ahead",
